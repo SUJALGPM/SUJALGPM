@@ -13,15 +13,15 @@
 
 - 🔭 I'm currently doing an internship as a **Backend Developer**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **Full-Stack Development.**
 
-- 👯 I’m looking to collaborate on **MernStack Projects**
+- 👯 I’m looking to collaborate on **MernStack Projects.**
 
-- 🤝 I’m looking for help with **React JS**
+- 🤝 I’m looking for help with **React JS Projects.**
 
 - 👨‍💻 All of my projects are available at [https://sujal-portfolio-site.netlify.app/](https://sujal-portfolio-site.netlify.app/)
 
-- 💬 Ask me about **Android , full-stack**
+- 💬 Ask me about **Android , full-stack.**
 
 - 📫 How to reach me **Mailme.sujaldingankar@gmail.com**
 
