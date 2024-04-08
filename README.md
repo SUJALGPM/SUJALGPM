@@ -1,21 +1,21 @@
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
     <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&width=550&lines=Welcome+to+the+Sujal+Dingankar's+Github+profile" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&width=550&lines=Welcome+to+the+Sujal+Dingankar's+Github+profile..." alt="Typing SVG">
     </a>
 </div>
 
 [![Banner Image](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://faisal786111.io)
-<h1 align="center">A passionate Full-Stack developer from India</h1>
+<h1 align="center">A passionate Full-Stack developer from Mumbai...</h1>
 <img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalgpm&label=Profile%20views&color=0e75b6&style=flat" alt="sujalgpm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Major project**
+- 🔭 I'm currently doing an internship as a **Backend Developer**
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👯 I’m looking to collaborate on **Mern Projects**
+- 👯 I’m looking to collaborate on **MernStack Projects**
 
 - 🤝 I’m looking for help with **React JS**
 
