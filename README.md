@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I'm currently doing an internship as a **Backend Developer.**
+- 🔭I am currently pursuing a B.Tech in **Computer Engineering**.
 
 - 🌱 I’m currently learning **Full-Stack Development.**
 
 - 👯 I’m looking to collaborate on **MernStack Projects.**
 
-- 🤝 I’m looking for help with **React JS Projects.**
+- 🤝 I’m looking for help with **Flutter Projects.**
 
 - 👨‍💻 All of my projects are available at [https://sujal-portfolio-site.netlify.app/](https://sujal-portfolio-site.netlify.app/)
 
-- 💬 Ask me about **Android , full-stack.**
+- 💬 Ask me about **Flutter, Mernstack.**
 
 - 📫 How to reach me **Mailme.sujaldingankar@gmail.com**
 
