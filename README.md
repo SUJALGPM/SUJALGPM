@@ -88,6 +88,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalgpm&show_icons=true&locale=en&layout=compact" alt="sujalgpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujalgpm&show_icons=true&locale=en" alt="sujalgpm" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalgpm&" alt="sujalgpm" /></p>
