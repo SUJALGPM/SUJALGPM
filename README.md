@@ -1,91 +1,202 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <a href="https://git.io/typing-svg" target="_blank">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&width=550&lines=Welcome+to+the+Sujal+Dingankar's+Github+profile..." alt="Typing SVG">
-    </a>
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Sujal+Dingankar;Full+Stack+Developer+%7C+Backend+Engineer;DSA+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-[![Banner Image](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://faisal786111.io)
-<h1 align="center">A passionate Full-Stack developer...</h1>
-<img align = "right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalgpm&label=Profile%20views&color=0e75b6&style=flat" alt="sujalgpm" /> </p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujal@example.com)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🔭I am currently pursuing a B.Tech in *Computer Engineering*.
+---
 
-- 🌱 I’m currently learning *Full-Stack Development.*
+## 🎯 About Me
 
-- 👯 I’m looking to collaborate on *MernStack Projects.*
+```
+I'm a B.Tech Computer Engineering student with a passion for building scalable 
+backend systems and full-stack applications. Currently interning as a Backend 
+Developer, specializing in the MERN stack with Supabase and Node.js. 
 
-- 🤝 I’m looking for help with *Flutter Projects.*
+When the keyboard is hot, you'll find me grinding through DSA problems in C++ 
+and architecting solutions that blend performance with elegance.
+```
 
-- 👨‍💻 All of my projects are available at [https://sujal-portfolio-site.netlify.app/](https://sujal-portfolio-site.netlify.app/)
+---
 
-- 💬 Ask me about *Flutter, Mernstack.*
+## 🚀 Currently Building
 
-- 📫 How to reach me *Mailme.sujaldingankar@gmail.com*
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sujal-dingankar-3094ba289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19623374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19623374" height="30" width="40" /></a>
-<a href="https://instagram.com/_sujal_dingankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sujal_dingankar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ss21cosujaldingankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ss21cosujaldingankar" height="30" width="40" /></a>
-</p>
+| 🎬 | 💾 | 🔧 |
+|:---:|:---:|:---:|
+| **Video Generation** | **File Sharing System** | **Full-Stack Apps** |
+| Remotion + React | AES Encryption | MERN Stack |
+| Real-time rendering | Supabase integration | Next.js + Node.js |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalgpm&show_icons=true&locale=en&layout=compact" alt="sujalgpm" /></p>
+## 💻 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujalgpm&" alt="sujalgpm" /></p>
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Services</b></summary>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+### 🎬 Remotion Video Generator
+**Automated video creation with React components**
+- Built with Remotion & Node.js backend
+- Real-time rendering with progress tracking
+- WebSocket integration for live updates
+
+[View Repository](https://github.com/sujal)
+
+---
+
+### 🔐 Encrypted File Sharing
+**Secure file transfer with AES encryption**
+- End-to-end encryption (AES-256)
+- Supabase backend with real-time database
+- React frontend with drag-and-drop UI
+
+[View Repository](https://github.com/sujal)
+
+---
+
+### 💼 Full-Stack Admin Dashboard
+**Complete MERN application with analytics**
+- Next.js + Node.js with TypeScript
+- PostgreSQL with complex queries
+- Authentication & role-based access control
+
+[View Repository](https://github.com/sujal)
+
+---
+
+### 🤖 DSA Problem Solver
+**C++ solutions with detailed explanations**
+- 100+ LeetCode problems solved
+- Time & space complexity analysis
+- Pattern-based approach documentation
+
+[View Repository](https://github.com/sujal)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujal&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/sujal)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujal&theme=nord&hide_border=true)](https://github.com/sujal)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujal&layout=compact&theme=nord&hide_border=true)](https://github.com/sujal)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub contribution graph as snake](https://github.com/sujal/sujal/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎭 When I'm Not Coding...
+
+```
+💭 Crafting the next big idea
+🎮 Getting destroyed in competitive games
+📚 Reading tech blogs and documentation
+🎵 Listening to lo-fi beats on repeat
+🏃 Staying active and healthy
+🌙 Debugging my life decisions at 3 AM
+```
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+I'm always open to exciting projects and collaborations. Whether it's a hackathon, 
+a startup idea, or just geeking out about tech—let's make something awesome together!
+
+**Drop me a message:**
+- 📧 Email: sujal@example.com
+- 💼 LinkedIn: [/in/sujal-dingankar](https://linkedin.com)
+- 🐦 Twitter: [@sujal_codes](https://twitter.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code is poetry. Bugs are the critique." 
+
+**Made with ❤️ by Sujal Dingankar** | Last updated: 2024
+
+</div>
+
+---
+
+<div align="center">
+  
+  ```
+   ╔═══════════════════════════════════╗
+   ║   Thanks for visiting my profile! ║
+   ║      Keep building, keep growing  ║
+   ╚═══════════════════════════════════╝
+  ```
+
+</div>
